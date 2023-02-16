@@ -1,0 +1,64 @@
+header{
+    text-align: center;
+    font-size:xx-large;
+}
+
+
+.tituloSection{
+    font-family: 'Solitreo', cursive;  
+    text-align: center;
+    font-size:x-large;
+}
+
+#parrafo1, #parrafo2{
+    font-family: 'Source Code Pro', monospace;
+    color:white;
+    font-size:large;
+    display: none;
+}
+
+
+body{
+    background-image: url(https://cdn.discordapp.com/attachments/951204261025427496/1068393867935760424/Furro_nashe.png);
+    background-attachment:fixed;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Aboreto', cursive;
+    text-decoration: underline black 3px;
+}
+
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#imagen{
+    display: block;
+    margin: auto;
+}
+
+section{
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+span{
+    text-decoration: underline black 2px;
+}
+
+footer{
+    text-align: center;
+    font-size: x-large;
+}
+
+a{
+    color: aliceblue;
+}
+
+#botonMostrar{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
